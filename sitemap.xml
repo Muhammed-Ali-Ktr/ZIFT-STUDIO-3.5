@@ -56,16 +56,7 @@
         <priority>0.6</priority>
     </url>
     
-    <!-- Design Gallery -->
-    <url>
-        <loc>https://ziftstudio.digital/dgs.html</loc>
-        <lastmod>2025-01-27</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-
-    <!-- TeknoHaber -->
+        <!-- TeknoHaber -->
     <url>
         <loc>https://ziftstudio.digital/technozift.html</loc>
         <lastmod>2025-01-27</lastmod>
@@ -73,54 +64,4 @@
         <priority>0.5</priority>
     </url>
 
-    
-    <!-- Sınav Sayfaları -->
-    <url>
-        <loc>https://ziftstudio.digital/kpss.html</loc>
-        <lastmod>2025-01-27</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    <url>
-        <loc>https://ziftstudio.digital/lgs.html</loc>
-        <lastmod>2025-01-27</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    <url>
-        <loc>https://ziftstudio.digital/yks.html</loc>
-        <lastmod>2025-01-27</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    <url>
-        <loc>https://ziftstudio.digital/yds-ingilizce.html</loc>
-        <lastmod>2025-01-27</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    <url>
-        <loc>https://ziftstudio.digital/yds1.html</loc>
-        <lastmod>2025-01-27</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    <url>
-        <loc>https://ziftstudio.digital/yds2.html</loc>
-        <lastmod>2025-01-27</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    <url>
-        <loc>https://ziftstudio.digital/meb-ags.html</loc>
-        <lastmod>2025-01-27</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.4</priority>
-    </url>
 </urlset>
